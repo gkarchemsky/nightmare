@@ -1,3 +1,7 @@
+# gkarchemsky/writeups UPDATE
+
+You can find my writeups [here](writeups)
+
 # UPDATED
 
 So, I've begun to make some updated ctf stuff. The first big part, deals with heap ctf challs, and can be found here:
